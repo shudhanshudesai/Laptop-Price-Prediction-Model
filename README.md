@@ -117,11 +117,11 @@ The Random Forest model outperformed Linear Regression (Elastic Net) and Support
 
 **Contact**
 
-- **Name:** Shashank Borse
+- **Name:** Shudhanshu Ashish Desai
 
-- **LinkedIn:**[ https://www.linkedin.com/in/shashankborse/](https://www.linkedin.com/in/shashankborse/)
+- **LinkedIn:** https://www.linkedin.com/in/shudhanshu-ashish-desai/
 
-- **Email:** work\@shashankborse.com
+- **Email:** shudhanshudesai10@gmail.com
 
 **License**
 
