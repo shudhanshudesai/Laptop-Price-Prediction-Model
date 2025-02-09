@@ -53,7 +53,7 @@ To replicate this project, follow these steps:
 
 1. Clone the repository:
 
-git clone https\://github.com/shashankborse/Laptop-Price-Prediction-ML.git
+git clone https://github.com/shudhanshudesai/Laptop-Price-Prediction-Model.git
 
 2. Navigate to the project directory:
 
